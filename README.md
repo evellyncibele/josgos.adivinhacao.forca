@@ -1,1 +1,2 @@
-# josgos.adivinhacao.forca
+# Jogo-Adivinha-o
+Aulas de Python
